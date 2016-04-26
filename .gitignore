@@ -4,3 +4,8 @@ roms
 *.res
 *.bin
 *.dmp
+
+config.log
+Makefile
+config.status
+src/.deps
